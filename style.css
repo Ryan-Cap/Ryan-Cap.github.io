@@ -12,8 +12,13 @@ body {
 
 .white {
   color: white;
+}
 
 .nav {
   background-color: lightblue;
   color: white;
   font-size: 1.75rem;
+  position: fixed;
+  width: 100%
+}
+
