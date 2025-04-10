@@ -3,7 +3,7 @@ body {
   background: DodgerBlue;
 }
 .banner { 
-  font-size: 1.75rem;
+  font-size: 2rem;
   text-align: center;
   margin: 2.5rem 1rem;
   padding: 15px 10px 10px 10px;
@@ -12,3 +12,8 @@ body {
 
 .white {
   color: white;
+
+.nav {
+  background-color: lightblue;
+  color: white;
+  font-size: 1.75rem;
