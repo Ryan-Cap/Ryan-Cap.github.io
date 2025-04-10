@@ -19,7 +19,7 @@ body {
   color: white;
   font-size: 1.75rem;
   position: fixed;
-  width: 100%
+  width: 80%
 }
 
 .nav a {
@@ -33,5 +33,6 @@ body {
 
 .nav a:hover{
   background-color: #99e6ff;
+  color: black;
 
 }
