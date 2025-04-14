@@ -11,8 +11,10 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-.white {
-  color: white;
+.text {
+  color: black;
+  font-size: 30px;
+  font-family: 'Monaco', monospace;
 }
 
 .content {
