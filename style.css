@@ -13,12 +13,12 @@ body {
 
 .text {
   color: black;
-  font-size: 30px;
+  font-size: 25px;
   font-family: 'Monaco', monospace;
 }
 
 .content {
-  margin-top: 300px;
+  margin-top: 125px;
 }
 
 .nav {
