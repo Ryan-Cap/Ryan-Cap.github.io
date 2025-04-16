@@ -46,3 +46,9 @@ body {
 .spacing {
   padding: 25px;
 }
+
+.inline {
+  display: inline-block;
+  margin-right: 10px;
+  width: 200px;
+}
